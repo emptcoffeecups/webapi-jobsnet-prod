@@ -8,6 +8,7 @@
  *Ferramentas de Desenvolvimento Utilizadas*
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio 2019](https://img.shields.io/badge/-Visual%20Studio%202019%20Community-333333?style=flat&logo=visual-studio&logoColor=9900CC)
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=SQLserver&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
@@ -23,7 +24,7 @@
 *Frameworks*
   
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=Bulma)
-  ![.NET](https://img.shields.io/badge/-DotNet-333333?style=flat&logo=DotNet)
+  ![.NET](https://img.shields.io/badge/-DotNET-333333?style=flat&logo=DotNet)
   
  ---
   
