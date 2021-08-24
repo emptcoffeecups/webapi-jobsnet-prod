@@ -7,7 +7,8 @@ namespace aec_webapi_ef.Controllers
     [ApiExplorerSettings(IgnoreApi = true)]
     [ApiController]
 
-    public class PresentationsController : ControllerBase{
+    public class PresentationsController : ControllerBase
+    {
 
         [HttpGet]
         [Route("/")]

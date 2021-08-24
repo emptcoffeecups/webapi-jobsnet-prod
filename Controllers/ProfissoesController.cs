@@ -77,17 +77,18 @@ namespace aec_webapi_ef.Controllers
         [HttpPost]
         public async Task<ActionResult<Profissao>> PostProfissao(Profissao profissao)
         {
-            try{
-            _context.Profissoes.Add(profissao);
-            await _context.SaveChangesAsync();
+            try
+            {
+                _context.Profissoes.Add(profissao);
+                await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetProfissao", new { id = profissao.Id }, profissao);
+                return CreatedAtAction("GetProfissao", new { id = profissao.Id }, profissao);
             }
-            catch(SqlException)
-            {                
+            catch (SqlException)
+            {
                 return BadRequest("NDB");
             }
-            catch(DbUpdateException)
+            catch (DbUpdateException)
             {
                 return BadRequest("NDB");
             }

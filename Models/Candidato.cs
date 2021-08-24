@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 
 namespace aec_webapi_ef.Models
 {
-    [Table ("candidatos")]
+    [Table("candidatos")]
     public class Candidato
     {
         [Key]
@@ -39,7 +39,7 @@ namespace aec_webapi_ef.Models
         [Column("profissaoId")]
         [ForeignKey("ProfissaoId")]
         [Required]
-        public int ProfissaoId { get; set; } 
+        public int ProfissaoId { get; set; }
 
         [JsonIgnore] //Ignorar visualização da propriedade no Json
         public Profissao Profissao { get; set; }
