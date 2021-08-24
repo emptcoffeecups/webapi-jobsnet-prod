@@ -24,7 +24,7 @@
 *Frameworks*
   
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=Bulma)
-  ![.NET](https://img.shields.io/badge/-DotNET-333333?style=flat&logo=DotNet)
+  ![.NET](https://img.shields.io/badge/-DotNET%20Core-333333?style=flat&logo=DotNetCore)
   
  ---
   
