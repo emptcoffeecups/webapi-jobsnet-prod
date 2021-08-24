@@ -76,11 +76,3 @@ dotnet aspnet-codegenerator controller -name ProfissaoController -async -api -m 
 ``` 
   
  ---
-  
-<h2> 💼 &nbsp;Caso deseje saber mais sobre os integrantes, abaixo encontra-se nosso Linkedin: <h2/>
-  
-[![Linkedin: sebastião](https://img.shields.io/badge/-Sebastião-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sbstleal/)](https://www.linkedin.com/in/sbstleal/) [![Linkedin: ivanilson](https://img.shields.io/badge/-Ivanilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivanilson-ferreira-026292201/)](https://www.linkedin.com/in/ivanilson-ferreira-026292201/)
-[![Linkedin: josé](https://img.shields.io/badge/-José-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)](https://www.linkedin.com/in/jos%C3%A9-victor-martins-figueiredo-21a70217b/)
-[![Linkedin: lucas](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-ramon-1978b653/)](https://www.linkedin.com/in/lucas-ramon-1978b653/)
-[![Linkedin: caio](https://img.shields.io/badge/-Caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-cyrino-5a285b83/)](https://www.linkedin.com/in/caio-cyrino-5a285b83/)
-[![Linkedin: sbstleal](https://img.shields.io/badge/-Lucineide-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucineide-farias-4211271a5/)](https://www.linkedin.com/in/lucineide-farias-4211271a5/)
