@@ -25,7 +25,7 @@ namespace aec_webapi_ef.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Candidato>>> GetCandidatos()
         {
-            return await _context.Candidatos.ToListAsync();         
+            return await _context.Candidatos.ToListAsync();
         }
 
         // GET: api/Candidatos/5
@@ -68,11 +68,13 @@ namespace aec_webapi_ef.Controllers
                 {
                     throw;
                 }
-            } catch (SqlException)
-            {    
+            }
+            catch (SqlException)
+            {
                 return NoContent();
 
-            } catch (DbUpdateException)
+            }
+            catch (DbUpdateException)
             {
                 return NoContent();
             }
@@ -85,16 +87,19 @@ namespace aec_webapi_ef.Controllers
         [HttpPost]
         public async Task<ActionResult<Candidato>> PostCandidato(Candidato candidato)
         {
-            try{
+            try
+            {
                 _context.Candidatos.Add(candidato);
                 await _context.SaveChangesAsync();
 
                 return CreatedAtAction("GetCandidato", new { id = candidato.Id }, candidato);
             }
-            catch (SqlException){
+            catch (SqlException)
+            {
                 return BadRequest("CDB");
             }
-            catch (DbUpdateException){
+            catch (DbUpdateException)
+            {
                 return BadRequest("CDB");
             }
         }

@@ -9,8 +9,8 @@ using aec_webapi_ef.Services;
 namespace aec_webapi_ef.Migrations
 {
     [DbContext(typeof(DbContexto))]
-    [Migration("20210823234852_Producao")]
-    partial class Producao
+    [Migration("20210824175647_JobsADD")]
+    partial class JobsADD
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

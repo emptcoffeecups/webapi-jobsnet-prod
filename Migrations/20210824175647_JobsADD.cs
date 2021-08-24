@@ -2,7 +2,7 @@
 
 namespace aec_webapi_ef.Migrations
 {
-    public partial class Producao : Migration
+    public partial class JobsADD : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
