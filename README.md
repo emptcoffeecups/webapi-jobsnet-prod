@@ -33,7 +33,7 @@
   
   ![Bulma](https://img.shields.io/badge/-Bulma-333333?style=flat&logo=Bulma)
   ![.NET](https://img.shields.io/badge/-DotNET%20Core-333333?style=flat&logo=DotNetCore)
-  ![EF](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=EntityFramework)
+  ![EF](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=EF)
   
  ---
   
