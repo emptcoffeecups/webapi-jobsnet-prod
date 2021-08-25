@@ -4,7 +4,7 @@
 - 🛠 &nbsp; Desenvolvido por **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal.**, github da equipe seguindo todos integrantes: <a href="https://github.com/emptcoffeecups/">emptcoffeecups</a>.
 - 🛠 &nbsp; Gitub dos integrantes:
   
-  Caio [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Caio&style=social)](https://github.com/sbstleal)
+  <br/>Caio [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Caio&style=social)](https://github.com/sbstleal)<br/>
   Ivanilson [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Ivanilson&style=social)](https://github.com/sbstleal)
   José [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=José&style=social)](https://github.com/sbstleal)
   Lucas [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Lucas&style=social)](https://github.com/sbstleal)
