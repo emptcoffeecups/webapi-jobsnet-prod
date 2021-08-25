@@ -4,12 +4,12 @@
 - 🛠 &nbsp; Desenvolvido por **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal.**
 - 🐱 &nbsp; Gitub dos integrantes:
   
-  <br/>Siga o [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Caio&style=social)](https://github.com/feholy/)<br/>
-  <br/>Siga o [![GitHub Ivanilson]( https://img.shields.io/github/followers/IvanFerroli?label=Ivanilson&style=social)](https://github.com/IvanFerroli/)<br/>
-  <br/>Siga o [![GitHub José]( https://img.shields.io/github/followers/josevictormobile?label=José&style=social)](https://github.com/josevictormobile/)<br/>
-  <br/>Siga o [![GitHub Lucas]( https://img.shields.io/github/followers/luksramon?label=Lucas&style=social)](https://github.com/luksramon/)<br/>
-  <br/>Siga a [![GitHub Lucineide]( https://img.shields.io/github/followers/lucineidefarias?label=Lucineide&style=social)](https://github.com/lucineidefarias/)<br/>
-  <br/>Siga o [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Sebastião&style=social)](https://github.com/sbstleal/)<br/>
+  [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Caio&style=social)](https://github.com/feholy/)
+  [![GitHub Ivanilson]( https://img.shields.io/github/followers/IvanFerroli?label=Ivanilson&style=social)](https://github.com/IvanFerroli/)
+  [![GitHub José]( https://img.shields.io/github/followers/josevictormobile?label=José&style=social)](https://github.com/josevictormobile/)
+  [![GitHub Lucas]( https://img.shields.io/github/followers/luksramon?label=Lucas&style=social)](https://github.com/luksramon/)
+  [![GitHub Lucineide]( https://img.shields.io/github/followers/lucineidefarias?label=Lucineide&style=social)](https://github.com/lucineidefarias/)
+  [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Sebastião&style=social)](https://github.com/sbstleal/)
   
  ---
   
