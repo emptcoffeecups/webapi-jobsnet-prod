@@ -1,16 +1,15 @@
 <h3> ☕ &nbsp;EMPTY COFFEE CUPS <h3/>
   
 - 📚 &nbsp; Desafio final do 1º **AeC Digital Academy** desenvolvido pela Gama Academy: <a href="https://github.com/educacao-gama/desafios-gama/tree/main/banco%20de%20curriculos/">repositório github</a>.
-- 🛠 &nbsp; Desenvolvido por **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal.**, github da equipe seguindo todos integrantes: <a href="https://github.com/emptcoffeecups/">emptcoffeecups</a>.
-- 🛠 &nbsp; Gitub dos integrantes:
+- 🛠 &nbsp; Desenvolvido por **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal.**
+- 🐱 &nbsp; Gitub dos integrantes:
   
-  <br/>Caio [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Caio&style=social)](https://github.com/sbstleal)<br/>
-  Ivanilson [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Ivanilson&style=social)](https://github.com/sbstleal)
-  José [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=José&style=social)](https://github.com/sbstleal)
-  Lucas [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Lucas&style=social)](https://github.com/sbstleal)
-  Lucineide [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Lucineide&style=social)](https://github.com/sbstleal)
-  Sebastião [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Sebastião&style=social)](https://github.com/sbstleal)
-  
+  <br/>Siga o [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Caio&style=social)](https://github.com/feholy/)<br/>
+  Siga o [![GitHub Ivanilson]( https://img.shields.io/github/followers/sbstleal?label=Ivanilson&style=social)](https://github.com/IvanFerroli/)
+  Siga o [![GitHub José]( https://img.shields.io/github/followers/sbstleal?label=José&style=social)](https://github.com/josevictormobile/)
+  Siga o [![GitHub Lucas]( https://img.shields.io/github/followers/sbstleal?label=Lucas&style=social)](https://github.com/luksramon/)
+  Siga a [![GitHub Lucineide]( https://img.shields.io/github/followers/sbstleal?label=Lucineide&style=social)](https://github.com/lucineidefarias/)
+  Siga o [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Sebastião&style=social)](https://github.com/sbstleal/)
   
  ---
   
