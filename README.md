@@ -35,6 +35,11 @@
   ![.NET](https://img.shields.io/badge/-DotNET%20Core-333333?style=flat&logo=DotNetCore)
   ![EF](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=EF)
   
+ *Documentação da WebAPI Rest*
+  
+ http://localhost:5000/swagger/index.html
+ https://localhost:5001/swagger/index.html
+  
  ---
   
 *Comandos iniciais:*
