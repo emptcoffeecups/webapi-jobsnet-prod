@@ -36,10 +36,10 @@
   ![EF](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=EF)
   
  *Documentação da WebAPI Rest*
-  
- </br>http://localhost:5000/swagger/index.html</br>
+  ``` bash
+ http://localhost:5000/swagger/index.html
  https://localhost:5001/swagger/index.html
-  
+  ``` 
  ---
   
 *Comandos iniciais:*
