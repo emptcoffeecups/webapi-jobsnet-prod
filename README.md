@@ -4,12 +4,12 @@
 - 🛠 &nbsp; Desenvolvido por **Caio Cyrino, Ivanilson Ferreira, José Victor, Lucas Ramon, Lucineide Farias e Sebastião Leal.**, github da equipe seguindo todos integrantes: <a href="https://github.com/emptcoffeecups/">emptcoffeecups</a>.
 - 🛠 &nbsp; Gitub dos integrantes:
   
-  Caio [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Siga-o-Caio&style=social)](https://github.com/sbstleal)
-  Ivanilson [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Siga-o-Ivanilson&style=social)](https://github.com/sbstleal)
-  José [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Siga-o-José&style=social)](https://github.com/sbstleal)
-  Lucas [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Siga-o-Lucas&style=social)](https://github.com/sbstleal)
-  Lucineide [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Siga-a-Lucineide&style=social)](https://github.com/sbstleal)
-  Sebastião [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Siga-o-Sebastião&style=social)](https://github.com/sbstleal)
+  Caio [![GitHub Caio]( https://img.shields.io/github/followers/sbstleal?label=Caio&style=social)](https://github.com/sbstleal)
+  Ivanilson [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Ivanilson&style=social)](https://github.com/sbstleal)
+  José [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=José&style=social)](https://github.com/sbstleal)
+  Lucas [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Lucas&style=social)](https://github.com/sbstleal)
+  Lucineide [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Lucineide&style=social)](https://github.com/sbstleal)
+  Sebastião [![GitHub Sebastião]( https://img.shields.io/github/followers/sbstleal?label=Sebastião&style=social)](https://github.com/sbstleal)
   
   
  ---
